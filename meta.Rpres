@@ -1,28 +1,25 @@
-Meta-tanker om dette og hint...
+Kvalitetsregistre: variabelbibliotek (metadata), informasjonsutveksling og søknadsportal
 ========================================================
 author: Kevin Thon, Are Edvardsen
 date: 5. desember 2017
 autosize: true
 
-First Slide
+Variabelbiblioteket 2.0 (Kevin)
 ========================================================
 
-For more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
+_Denne delen bør handle om det vi introduserer gjennom bla NKR_
+- Automagisk oppdatering fra kilden
+- ...
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
-
-Slide With Code
+Variabelbiblioteket 2.0 spin-off (Are)
 ========================================================
 
-```{r}
-summary(cars)
-```
+- (standardiserte) kodeverk, terminologier og informasjonsmodeller
+- benytte for utveksling av registerinformasjon mellom systemer og
+system og person, _e.g._ Helseanalyseplatformen
 
-Slide With Plot
+
+Søknadsportaler for tilgang til data (fra kvalitetsregistre)
 ========================================================
 
-```{r, echo=FALSE}
-plot(cars)
-```
+_Vis fram skjema, tegn og forklar..._
