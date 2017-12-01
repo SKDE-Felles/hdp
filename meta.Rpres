@@ -4,12 +4,23 @@ author: Kevin Thon, Are Edvardsen
 date: 5. desember 2017
 autosize: true
 
-Variabelbiblioteket 2.0 (Kevin)
+Variabelbiblioteket nåbilde (Kevin)
 ========================================================
+- Gjenskapning av de nasjonale medisinske kvalitetsregistrenes innregistreringsløsninger
+- Skjemaer representeres som OpenEHR-templater i NIKT sin CKM, forvaltninsverktøyet for arketyper
+- Spesialutviklet søkefunksjonalitet for søk i variabler (metadata), også på tvers av registre.
+- Registre i oppstartsfasen kan se hvordan andre registre har definert variabler
+- Reint deskriptiv
+- Ingen kobling mot nasjonale kodeverk og terminologi
 
-_Denne delen bør handle om det vi introduserer gjennom bla NKR_
-- Automagisk oppdatering fra kilden
-- ...
+Variabelbiblioteket 2.0 ønsker (Kevin)
+========================================================
+- Oppdatering må gjøres automatisk, gjerne direkte mot registerets elektroniske innregistreringsløsning
+- Variabler må kunne kobles til relevant kodeverk og terminologi
+- Bør understøtte harmonisering av variabler: Anbefalte definisjoner
+- Bør ivareta variablenes historikk
+- mere...
+
 
 Variabelbiblioteket 2.0 spin-off (Are)
 ========================================================
