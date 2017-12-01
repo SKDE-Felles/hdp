@@ -13,6 +13,7 @@ _Denne delen bør handle om det vi introduserer gjennom bla NKR_
 
 Variabelbiblioteket 2.0 spin-off (Are)
 ========================================================
+incremental: true
 
 - Det ansees som relevant og formålstjenelig å se en ny utgave av
 variabelbiblioteket i sammenheng med utveksling av registerdata mot andre
@@ -25,6 +26,7 @@ og mellom system og person oppnår en ENTYDIG "forståelse" av variablenes verdi
 
 Søknadsportaler for tilgang til data (fra kvalitetsregistre)
 ========================================================
+incremental: true
 
 - Egen arbeidsgruppe for forskning, er i sluttfasen av sitt arbeid
 - Felles søknadsskjema er utarbeidet, ett for "individdata" (sensitiv) og et
