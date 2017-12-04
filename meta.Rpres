@@ -5,7 +5,7 @@ date: 5. desember 2017
 autosize: true
 transition: zoom
 
-Variabelbiblioteket nåbilde (Kevin)
+Variabelbiblioteket nåbilde
 ========================================================
 - Gjenskapning av de nasjonale medisinske kvalitetsregistrenes innregistreringsløsninger
 - Skjemaer representeres som OpenEHR-templater i NIKT sin CKM, forvaltninsverktøyet for arketyper
@@ -14,7 +14,7 @@ Variabelbiblioteket nåbilde (Kevin)
 - Reint deskriptiv, inneholder ingen anbefalinger
 - Ingen kobling mot nasjonale kodeverk og terminologi
 
-Variabelbiblioteket 2.0 ønsker (Kevin)
+Variabelbiblioteket 2.0 ønsker
 ========================================================
 - Oppdatering må gjøres automatisk basert på strukturerte variabellister
 - Variabler må kunne kobles til relevant kodeverk og terminologi
@@ -24,7 +24,7 @@ Variabelbiblioteket 2.0 ønsker (Kevin)
 
 
 
-Variabelbiblioteket 2.0 spin-off (Are)
+Variabelbiblioteket 2.0 spin-off
 ========================================================
 incremental: true
 
